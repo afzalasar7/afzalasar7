@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afzal Asar</h1>
-<h3 align="center">A Python developer and aspiring ML engineer from India</h3>
+<h3 align="center">A Python developer and aspiring ML engineer</h3>
 
 - 🔭 I’m currently working on **College Companion Chatot**
 
