@@ -1,16 +1,11 @@
-### Hi there 👋
 
-<!--
-**afzalasar7/afzalasar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on College Companion Chatbot
 - 🌱 I’m currently learning Machine Learning
 - 👥 Looking forward to connet with more people
 - 📫 How to reach me: afzal.asar03@gmail.com
 - 🥅 Goals: To create something innovative and impactful.
--->
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_asar_afzal_07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afzal-asar-433996237/) 
