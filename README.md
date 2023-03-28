@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afzal Asar</h1>
-<h3 align="center">A Python developer and aspiring ML engineer</h3>
-
+<h3 align="center">Python Developer and aspiring ML Engineer</h3>
+<img align="right" alt = "Coding" width ="280" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
 - 🔭 I’m currently working on **College Companion Chatot**
 
 - 👨🏻‍💻 I’m currently learning **Machine Learning**
