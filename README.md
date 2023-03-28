@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, Flask, Selenium**
 
-- 📫  You can reach me at **afzal.asar3@gmail.com**
+- 📫  You can reach me at **afzal.asar03@gmail.com**
 
 - 👥 Looking forward to connect with more people.
 
