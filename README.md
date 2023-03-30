@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar</h1>
 <h3 align="center">Python Developer and aspiring ML Engineer</h3>
 <!-- <img align="right" alt = "Coding" width ="260" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif"> -->
-<img align="right" alt = "Coding" width ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+<img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 - 🔭 I’m currently working on **College Companion Chatot**
 
