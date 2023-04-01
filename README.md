@@ -1,5 +1,9 @@
 <img align="center" alt = "Coding" width ="100%" height ="240" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 <!-- ![Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) -->
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Afzal+Asar;Python+Developer+and+aspiring+ML+Engineer;I'm+from+India;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <h1 align="center">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar</h1>
 <h3 align="center">Python Developer and aspiring ML Engineer</h3>
 <img align="right" alt = "Coding" width ="260" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
