@@ -7,7 +7,7 @@
 <h1 align="center" color="black">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar</h1>
 
 <h3 align="center"> <u> Python Developer and aspiring ML Engineer</u> </h3>
-<img align="right" alt = "Coding" width ="240" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
+<img align="right" alt = "Coding" width ="230" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
 <!-- <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
 
 - 🔭 I’m currently working on **College Companion Chatot**
@@ -29,7 +29,7 @@
 ---
 # 📊 GitHub Stats:
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Afzal Asar Github Stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Afzal Asar Github Stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
