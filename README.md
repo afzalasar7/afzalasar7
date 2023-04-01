@@ -21,7 +21,7 @@
 - 👥 Looking forward to connect with more people.
 
 - 🥅 Goals: To create something innovative and impactful.
-<br>
+
 
 ## 🌐 Socials:
 <div align="center"> 
