@@ -52,8 +52,7 @@
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=afzalasar7&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+---
 [![](https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0)](https://visitcount.itsvg.in)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5DADE2&height=120&section=footer"/>
