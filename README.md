@@ -2,7 +2,7 @@
 <!-- ![Masterhead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e) -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=yellow&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!+:%29)](https://git.io/typing-svg)
 
 <h1 align="center" color="black">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar</h1>
 <h2 align="center"> <u>Python Developer and aspiring ML Engineer</u></h2>
