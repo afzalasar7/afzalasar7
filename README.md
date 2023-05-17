@@ -33,8 +33,9 @@
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
-<!-- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+# 📊 GitHub Stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afzalasar7](https://github.com/afzalasar7/github-readme-stats)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afzalasar7&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  -->
