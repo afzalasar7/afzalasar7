@@ -65,5 +65,5 @@ https://github-profile-trophy.vercel.app/?username={username}
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
   
-![snake gif](https://github.com/YOUR_USERNAME/afzalasar7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.svg)
 
