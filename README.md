@@ -4,16 +4,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center" color="black">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar</h1>
+<h1 align="center" color="black">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar </h1>
 <h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
 
 <img align="right" alt = "Coding" width ="225" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
 <!-- <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
 
-- 🔭 I’m currently working on **College Companion Chatot**
+- 🔭 I’m currently working on **College Companion Chatot**      <img src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e4782lhrkrgo05zmkkbtkf6g8pkog5apnmold8thhkr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
 
-- 👨🏻‍💻 I’m currently learning **Machine Learning**
-
+- 👨🏻‍💻 I’m currently learning **Machine Learning** 
 - 💬 Ask me about **Python, Flask, Selenium**
 
 - 📫  You can reach me at **afzal.asar03@gmail.com**
@@ -27,7 +26,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white). ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PowerBi](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)    ![PowerBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
 ---
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 <div align="center">  
   <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" alt="Afzal Asar Github Stats" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
