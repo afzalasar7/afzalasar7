@@ -14,7 +14,7 @@
 
 - 👨🏻‍💻 I’m currently learning **Machine Learning** & **Data Science** <img hspace=5 src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e4782lhrkrgo05zmkkbtkf6g8pkog5apnmold8thhkr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55" height="30">
 
-- 💬 Ask me about **Python, Flask, ML, DS,Selenium**  <img hspace=5 src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e473y4ktle2411zyv2cmuetlk1n3brs6pdr121iedi9&ep=v1_gifs_search&rid=200.webp&ct=g" width="20">
+- 💬 Ask me about **Python, Flask, ML, DS, Selenium**  <img hspace=5 src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e473y4ktle2411zyv2cmuetlk1n3brs6pdr121iedi9&ep=v1_gifs_search&rid=200.webp&ct=g" width="20">
 
 - 📫  You can reach me at **afzal.asar03@gmail.com**
 
