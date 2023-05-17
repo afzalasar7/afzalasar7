@@ -34,11 +34,11 @@
 </div>
 
 # 📊 GitHub Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afzalasar7)](https://github.com/anuraghazra/github-readme-stats)
-<!-- ![](https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afzalasar7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afzalasar7&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- -->
+
  ---
 # 🏆 GitHub Trophies
 <p align="center">
