@@ -10,15 +10,15 @@
 <img align="right" alt = "Coding" width ="225" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
 <!-- <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
 
-- 🔭 I’m pursuing Bachelor's in Engineering in AI&ML at  <a href="https://www.tcetmumbai.in/"> **TCET** </a>   <img hspace=5 src="https://media2.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif?cid=ecf05e47s7ufr94jm10qfp3gt3szpyaqfdgowr9109cvr3h8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="20">   
+- 🔭 I’m pursuing Bachelor's in Engineering in AI&ML at  <a href="https://www.tcetmumbai.in/"> **TCET** </a>   <img hspace=4 src="https://media2.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif?cid=ecf05e47s7ufr94jm10qfp3gt3szpyaqfdgowr9109cvr3h8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="20">   
 
-- 👨🏻‍💻 I’m currently learning **Machine Learning** & **Data Science** <img hspace=5 src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e4782lhrkrgo05zmkkbtkf6g8pkog5apnmold8thhkr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="35">
+- 👨🏻‍💻 I’m currently learning **Machine Learning** & **Data Science** <img hspace=5 src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e4782lhrkrgo05zmkkbtkf6g8pkog5apnmold8thhkr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55" height="30">
 
-- 💬 Ask me about **Python, Flask, Selenium**  <img hspace=5 src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e473y4ktle2411zyv2cmuetlk1n3brs6pdr121iedi9&ep=v1_gifs_search&rid=200.webp&ct=g" width="20">
+- 💬 Ask me about **Python, Flask, ML, DS,Selenium**  <img hspace=5 src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e473y4ktle2411zyv2cmuetlk1n3brs6pdr121iedi9&ep=v1_gifs_search&rid=200.webp&ct=g" width="20">
 
 - 📫  You can reach me at **afzal.asar03@gmail.com**
 
-- 👥 Looking forward to connect with more people.
+- 👥 Looking forward to connect and collaborate with more people.
 
 - 🥅 Goals: To create something innovative and impactful.
 
