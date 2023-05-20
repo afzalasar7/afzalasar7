@@ -57,10 +57,13 @@ https://github-profile-trophy.vercel.app/?username={username}
 <a href="https://instagram.com/_asar_afzal_07" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
  </div>
 <!--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afzal-asar-433996237/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_asar_afzal_07) -->
-
-[![](https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0)](https://visitcount.itsvg.in)
-
-![snake gif](https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.gif)
+<br/>
+<!-- [![](https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0)](https://visitcount.itsvg.in) -->
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0" />
+</p>
+  
+<!-- ![snake gif](https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.gif) -->
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
   
