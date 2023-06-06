@@ -29,9 +29,9 @@
 ---
 # 📊 GitHub Stats: 
 <div align="center">  
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&count_private=true&show_icons=true&theme=gotham&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="Afzal Asar Github Stats" /> 
+  <img width="51%" height="210px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&count_private=true&show_icons=true&theme=gotham&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="Afzal Asar Github Stats" /> 
 
-   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&layout=compact&theme=gotham&langs_count=6" />
+   <img width="40%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&layout=compact&theme=gotham&langs_count=6" />
 </div>
 <!-- 
 # 📊 GitHub Stats:
