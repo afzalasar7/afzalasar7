@@ -61,10 +61,10 @@ https://github-profile-trophy.vercel.app/?username={username}
 <br/>
 <!-- [![](https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0)](https://visitcount.itsvg.in) 
   ![snake gif](https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.gif) -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0" />
 </p>
-  
+   -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
   
 
