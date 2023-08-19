@@ -6,9 +6,9 @@
 
 <h1 align="center" color="black">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar </h1>
 <h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
-<img align="right" alt = "Coding" width ="300" height ="247" src="[https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif](https://iconscout.com/lottie/programmer-working-on-pc-3917154)">
-<img align="right" alt = "Coding" width ="300" height ="247" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
-<!-- <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
+<img align="right" alt = "Coding" width ="300" height ="247" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<!--<img align="right" alt = "Coding" width ="300" height ="247" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
+ <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
 
 - 🔭 I’m pursuing Bachelor's in Engineering in AI&ML at  <a href="https://www.tcetmumbai.in/"> **TCET** </a>   <img hspace=4 src="https://media2.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif?cid=ecf05e47s7ufr94jm10qfp3gt3szpyaqfdgowr9109cvr3h8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="20">   
 
@@ -59,12 +59,11 @@ https://github-profile-trophy.vercel.app/?username={username}
  </div>
 <!--  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/afzal-asar-433996237/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_asar_afzal_07) -->
 <br/>
-<!-- [![](https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0)](https://visitcount.itsvg.in) -->
+<!-- [![](https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0)](https://visitcount.itsvg.in) 
+  ![snake gif](https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.gif) -->
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0" />
 </p>
-  
-![snake gif](https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.gif)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
   
