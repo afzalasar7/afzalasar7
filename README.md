@@ -6,7 +6,7 @@
 
 <h1 align="center" color="black">Hi <img  alt = "Coding" width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif">, I'm Afzal Asar </h1>
 <h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
-
+<img align="right" alt = "Coding" width ="300" height ="247" src="[https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif](https://iconscout.com/lottie/programmer-working-on-pc-3917154)">
 <img align="right" alt = "Coding" width ="300" height ="247" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">
 <!-- <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"> -->
 
