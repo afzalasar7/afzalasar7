@@ -70,7 +70,8 @@ https://github-profile-trophy.vercel.app/?username={username}
 <div align="center">
     
  ![Leetcode Stats](https://leetcard.jacoblin.cool/afzalasar5?ext=heatmap&theme=dark)
-
+ 
+[![LeetCode user afzalasar5](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fafzalasar5&logo=leetcode&logoColor=yellow)](https://leetcode.com/afzalasar5/)
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
