@@ -65,6 +65,14 @@ https://github-profile-trophy.vercel.app/?username={username}
   <img src="https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0" />
 </p>
    -->
+
+# 🧑‍💻💻Leetcode Stats
+<div align="center">
+    
+ ![Leetcode Stats](https://leetcard.jacoblin.cool/afzalasar5?ext=heatmap&theme=dark)
+
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
   
 
