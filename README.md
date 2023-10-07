@@ -3,11 +3,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center" color="black">Hi👋 <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> I'm Afzal Asar </h1>
+<h1 align="center" color="black">Hi👋 <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> I'm Afzal Asar <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> </h1>
 
 <h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
 
+<h1 align="center" color="black">Hi👋, I'm Afzal Asar </h1>
 
+<h2 align="center"> Python Developer and aspiring ML Engineer </h2>
+ 
 <!-- <img align="right" alt = "Coding" width ="300" height ="247" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">-->
 <!-- <img align="right" alt = "Coding" width ="300" height ="247" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">  -->
 <!--  <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
