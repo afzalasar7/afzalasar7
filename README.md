@@ -31,10 +31,14 @@
 ---
 # 📊 GitHub Stats: 
 <div align="center">  
-  <img width="51%" height="210px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&count_private=true&show_icons=true&theme=gotham&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="Afzal Asar Github Stats" /> 
-
+<!--   <img width="51%" height="210px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&show_icons=true&theme=gotham&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="Afzal Asar Github Stats" /> 
    <img width="40%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&layout=compact&theme=gotham&langs_count=4" />
+</div> -->
+ <img width="51%" height="210px" src="https://github-readme-stats.vercel.app/api?username=afzalasar7&show_icons=true&theme=radical&hide=issues&include_all_commits=true&count_private=true&rank_icon=github" alt="Afzal Asar Github Stats" /> 
+   <img width="40%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalasar7&layout=compact&theme=radical&langs_count=4" />
 </div>
+
+
 <!-- 
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afzalasar7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -49,6 +53,7 @@ https://github-profile-trophy.vercel.app/?username={username}
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=afzalasar7&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
+
 
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=afzalasar7&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
