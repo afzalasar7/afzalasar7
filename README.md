@@ -71,9 +71,20 @@ https://github-profile-trophy.vercel.app/?username={username}
 <!-- ![snake gif] (https://github.com/afzalasar7/afzalasar7/blob/output/github-contribution-grid-snake.gif)
 <!-- <p align="center"> 
   <img src="https://visitcount.itsvg.in/api?id=afzalasar7&icon=8&color=0" />
-</p>
+</p> 
    -->
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afzalasar7/afzalasar7/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afzalasar7/afzalasar7/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/afzalasar7/afzalasar7/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
 # 🧑‍💻💻Leetcode Stats
 <div align="center">
     
