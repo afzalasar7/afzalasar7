@@ -6,6 +6,7 @@
 <h1 align="center" color="black">Hi👋 <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> I'm Afzal Asar <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> </h1>
 
 <h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
+<img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="400" height="220" />
 
 <!-- <img align="right" width ="250" height ="" src="https://github.com/afzalasar7/afzalasar7/assets/111232340/db8b8efe-d4bd-4f11-aa86-d11f240ed19d">
 <!-- <img align="right" alt = "Coding" width ="300" height ="247" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">-->
