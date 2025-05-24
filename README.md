@@ -86,12 +86,14 @@ https://github-profile-trophy.vercel.app/?username={username}
     <img alt="github-snake" src="https://raw.githubusercontent.com/afzalasar7/afzalasar7/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
 # 🧑‍💻💻Leetcode Stats
 <div align="center">
     
  ![Leetcode Stats](https://leetcard.jacoblin.cool/afzalasar03?ext=heatmap&theme=dark)
- 
-[![LeetCode user afzalasar03](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fafzalasar03&logo=leetcode&logoColor=yellow)](https://leetcode.com/afzalasar03/)
+ <!-- 
+
+[![LeetCode user afzalasar03](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Leetcode&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fafzalasar03&logo=leetcode&logoColor=yellow)](https://leetcode.com/afzalasar03/) -->
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19A7CE&height=120&section=footer"/>
