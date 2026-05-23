@@ -3,9 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+Profile!+:%29)](https://git.io/typing-svg)
 
-<h1 align="center" color="black">Hi👋 <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> I'm Afzal Asar <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> </h1>
+<h1 align="center" color="black">Hi <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> I'm Afzal Asar <img width ="28" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif"> </h1>
 
-<h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and aspiring ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
+<h2 align="center"> <u> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> Python Developer and AI Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></u></h2>
 <img align="right" alt="GIF" src="https://github.com/TianMeds/TianMeds/blob/main/Program.gif?raw=true" width="400" height="220" />
 
 <!-- <img align="right" width ="250" height ="" src="https://github.com/afzalasar7/afzalasar7/assets/111232340/db8b8efe-d4bd-4f11-aa86-d11f240ed19d">
@@ -13,13 +13,13 @@
 <!-- <img align="right" alt = "Coding" width ="300" height ="247" src="https://www.techbabble.zone/content/images/size/w2000/2021/07/46207-programmer-1.gif">  -->
 <!--  <img align="right" alt = "Coding" width ="260" height ="260" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
  -->
-- 🔭 I’m pursuing Bachelor's in Engineering in AI&ML at  <a href="https://www.tcetmumbai.in/"> TCET </a>   <img hspace=4 src="https://media2.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif?cid=ecf05e47s7ufr94jm10qfp3gt3szpyaqfdgowr9109cvr3h8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="20">   
+- 🔭 Bachelor's in Engineering in AI&ML at  <a href="https://www.tcetmumbai.in/"> TCET </a>   <img hspace=4 src="https://media2.giphy.com/media/FTFI4bczpUYAp4xuSt/giphy.gif?cid=ecf05e47s7ufr94jm10qfp3gt3szpyaqfdgowr9109cvr3h8&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="70" height="20">   
 
 - 👨🏻‍💻 I’m currently learning **Machine Learning** & **Data Science** <img hspace=5 src="https://media2.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif?cid=ecf05e4782lhrkrgo05zmkkbtkf6g8pkog5apnmold8thhkr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="55" height="30">
 
 <!-- - 💬 Ask me about **Python, Flask, ML, DS, Selenium**  <img hspace=5 src="https://media3.giphy.com/media/KAq5w47R9rmTuvWOWa/200.webp?cid=ecf05e473y4ktle2411zyv2cmuetlk1n3brs6pdr121iedi9&ep=v1_gifs_search&rid=200.webp&ct=g" width="20">-->
 
-- 📫  You can reach me at **afzal.asar03@gmail.com**
+- 📫  You can reach me at **afzalasar5@gmail.com**
 
 - 👥 Looking forward to connect and collaborate with more people.
 
